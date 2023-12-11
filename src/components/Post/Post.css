@@ -1,0 +1,58 @@
+.form_post {
+  width: 100%;
+  margin-top: 30px;
+}
+.first_name {
+  width: 90%;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 8px;
+  padding-left: 20px;
+  font-size: 17px;
+}
+.last_name {
+  width: 90%;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 8px;
+  padding-left: 20px;
+  font-size: 17px;
+  margin-top: 10px;
+}
+.age {
+  width: 90%;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 8px;
+  padding-left: 20px;
+  font-size: 17px;
+  margin-top: 10px;
+}
+.phone_number {
+  width: 90%;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 8px;
+  padding-left: 20px;
+  font-size: 17px;
+  margin-top: 10px;
+}
+.location {
+  width: 90%;
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 8px;
+  padding-left: 20px;
+  font-size: 17px;
+  margin-top: 10px;
+}
+
+.btn {
+  width: 30%;
+  height: 30px;
+  background-color: #2196f3;
+  border: none;
+  font-size: 17px;
+  margin-top: 10px;
+  color: #fff;
+}
